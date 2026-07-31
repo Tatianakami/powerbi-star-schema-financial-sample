@@ -154,7 +154,7 @@ A tabela **Financials_Origem** foi mantida apenas como backup e ocultada da visu
 
 ## Modelo Star Schema
 
-![Modelo Star Schema](projeto/img/modelo-star-schema.png)
+![Modelo Star Schema](projeto.bi/img/modelo-star-schema.png)
 
 ---
 
