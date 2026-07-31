@@ -150,9 +150,9 @@ A tabela **Financials_Origem** foi mantida apenas como backup e ocultada da visu
 
 # Imagem do modelo
 
-Insira aqui a captura do modelo.
 
-![Modelo](imagens/modelo-star-schema.png)
+
+![Modelo](imagens/modelo-star-schema.png.png)
 
 ---
 
